@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="vamboraa.jpeg" type="image/x-icon">
+    <title>Hierarquia de titulos</title>
+</head>
+<body>
+
+
+    <h1>Entendendo Portugal</h1>
+    <h2>Introdução</h2>
+    <h3>Começando agora</h3>
+    <h3>Testando os hs</h3>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Iste numquam repellendus repellat architecto vero ad commodi quam corrupti soluta tempore. Dolores autem, quo perferendis molestias magnam quidem voluptates voluptate vero.
+    <h3>Investigando metodologia</h3>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi quos esse corrupti. Blanditiis, quod impedit eveniet aspernatur aliquid magni voluptate ipsum voluptatem suscipit nesciunt a adipisci excepturi sed quis soluta.
+    <h2>Apredendo a ordem</h2>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque, corporis? Aperiam deleniti odio corrupti repudiandae quo eum repellat cupiditate harum natus, dolorum earum eligendi, quas velit quae atque hic tempora?
+    <h3>Formato da fonte</h3>
+    <h4>termiinando ja</h4>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique ipsam libero dignissimos iste modi quidem error temporibus adipisci enim! Quibusdam, molestias quisquam! Fugiat, odio. Rem hic et nesciunt reiciendis voluptates?
+<h4>terminei</h4>
+Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quasi, necessitatibus pariatur. Deserunt itaque excepturi ut soluta cupiditate, modi sed architecto aliquid tempora nobis, consectetur corporis consequuntur illum odit veritatis eos!
+</body>
+</html>
